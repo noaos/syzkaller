@@ -1,7 +1,7 @@
 External USB fuzzing for Linux kernel
 =====================================
 
-This is in a prototype stage, there's still a lot of things to fix and implement.
+__This is in an earlier version of USB fuzzing support, the new one is in development right now.__
 
 syzkaller has support for external fuzzing of the USB stack.
 Initially it was based on gadgetfs, but later switched to another gadgetfs-like driver written from scratch.
